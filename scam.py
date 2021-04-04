@@ -1,3 +1,5 @@
+# Please read the README.md before continuing.
+
 import requests
 import os
 import random
@@ -7,7 +9,7 @@ import json
 chars = string.ascii_letters + string.digits + '!@#$%^&*()'
 random.seed = (os.urandom(1024))
 
-url = 'http://craigslist.pottsfam.com/index872dijasydu2iuad27aysdu2yytaus6d2ajsdhasdasd2.php'
+url = 'Enter the URL Here'
 
 names = 'jason'
 
@@ -18,8 +20,8 @@ for name in names:
 	password = ''.join(random.choice(chars) for i in range(8))
 
 	requests.post(url, allow_redirects=False, data={
-		'auid2yjauysd2uasdasdasd': username,
-		'kjauysd6sAJSDhyui2yasd': password
+		'Enter the Log In string here': username,
+		'Enter the Password string here': password
 	})
 
 	print('sending username %s and password %s' % (username, password))

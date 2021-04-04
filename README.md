@@ -16,11 +16,11 @@ After installing Tor, you will stay anonymous and none of your logs will be kept
 
 ## Step Three: 
 On the scam website, you will need to look for Form Data, and it's easier than you think.
-First, open your DevTools (Inspect Element)
-Second, Go to Network, Header, then Doc.
+First, open your DevTools (Inspect Element)<br>
+Second, Go to Network, Header, then Doc.<br>
 Third, Log in to the scam website (Put random gibberish into the Log In details. It'll accept it.)
 Fourth, Look through all of the files until you see Form Data. It should be at the bottom of each Header.
-Fifth, look for the information you put into the site. The username/password (Not what you put in) may be a random string of letters and numbers. If so, that's what we're looking for. If it says username and password, then that'll work too.
-Sixth, change the python script to the details that you found.
-Seventh, Open CMD and go into the folder where your script is. Then write "py scam.py"
-Then it should spam the website. 
+Fifth, look for the information you put into the site. The username/password (Not what you put in) may be a random string of letters and numbers. If so, that's what we're looking for. If it says username and password, then that'll work too.<br>
+Sixth, change the python script to the details that you found.<br>
+Seventh, Open CMD and go into the folder where your script is. Then write "py scam.py"<br>
+Then it should spam the website.<br>

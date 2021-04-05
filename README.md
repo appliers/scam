@@ -4,7 +4,7 @@ Want to get payback at scammers? Read here to learn about how to spam then :)
 ## Step One:
 To start this installation, you will need a code editor such as [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)<br><br>
 
-After installing the code editor, you shall copy the code from scam.py. Since it's only one file, it should only take a few seconds.<br>
+After installing the code editor, you have to copy the code from scam.py. Since it's only one file, it should only take a few seconds.<br>
 We will add a Git installation later on.
 
 To install this repo, you will need to clone it via Git.<br>

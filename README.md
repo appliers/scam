@@ -27,4 +27,4 @@ On the scam website, you will need to look for Form Data and the Redirect, and i
 
 Then it should spam the website.<br>
 <br>
-I'm going to rework this so you can just enter the information in the terminal or command prompt. 
+I'm going to rework this so you can just enter the information in the terminal or command prompt instead of doing all of this work.

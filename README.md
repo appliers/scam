@@ -1,5 +1,5 @@
 # Scammer Payback
-Want to get payback at scammers? Read here to learn about how to spam then :)
+Want to get payback at scammers? Read here to learn about how to spam them :)
 
 ## Step One:
 To start this installation, you will need a code editor such as [Atom](https://atom.io/) or [VSCode](https://code.visualstudio.com/)<br>

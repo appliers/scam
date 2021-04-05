@@ -24,4 +24,4 @@ On the scam website, you will need to look for Form Data and the Redirect, and i
 - Sixth, look for the information you put into the site. The login/password (Not what you put in) may be a random string of letters and numbers. If so, that's what we're looking for. If it says username and password, then that'll work too.<br>
 - Seventh, change the python script to the details that you found.<br>
 - Eighth, Open CMD and go into the folder where your script is. Then write "py scam.py"<br>
-- Then it should spam the website.<br>
+Then it should spam the website.<br>

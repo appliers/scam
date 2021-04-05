@@ -10,9 +10,9 @@ We will add a Git installation later on.
 To install this repo, you will need to clone it via Git.<br>
 Download the [latest](https://git-scm.com/download) version of Git. 
 
-## Step Two (OPTIONAL):
-If you dont want the scammers knowing information about you, I suggest using [Tor](https://www.torproject.org/) to stay anonymous.<br>
-After installing Tor, you will stay anonymous and none of your logs will be kept.
+## Step Two:
+If you dont want the scammers knowing information about you, I suggest using going in Icogneto to stay anonymous.<br>
+Other web browsers may not work due to the feature we need to us in DevTools (Inspect Element)
 
 ## Step Three: 
 On the scam website, you will need to look for Form Data and the Redirect, and it's easier than you think.<br>

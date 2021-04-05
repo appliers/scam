@@ -25,3 +25,5 @@ On the scam website, you will need to look for Form Data and the Redirect, and i
 - Seventh, change the python script to the details that you found.<br>
 - Eighth, Open CMD and go into the folder where your script is. Then write "py scam.py"<br>
 Then it should spam the website.<br>
+<br>
+I'm going to rework this so you can just enter the information in the terminal or command prompt. 

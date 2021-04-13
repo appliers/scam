@@ -1,3 +1,9 @@
+# This project has been deprecated by the developers. Please go [here](https://github.com/xkwm1/Alamo) to continue to the updated version.
+
+
+
+
+
 # Scammer Payback
 Want to get payback at scammers? Read here to learn about how to spam them :)
 
